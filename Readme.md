@@ -2,6 +2,8 @@
 
 ---
 
+## Text Editor - [VS Code](https://code.visualstudio.com/download) (Preferred)
+
 ## 1. Front-End (8-10 weeks)
 
 ### Basics
@@ -178,3 +180,5 @@ _You can choose between Djnago and Flask_
 - React Hooks
 - React Route
 - [Advanced Concepts](https://reactjs.org/docs/accessibility.html)
+
+**Youtube Channels:** [Programming With Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) || [Traversy Media](https://www.youtube.com/user/TechGuyWeb) || [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) || [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) || [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) || [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) || [DesignCourse](https://www.youtube.com/user/DesignCourse)
