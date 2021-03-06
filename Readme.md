@@ -8,7 +8,7 @@
 
 **1.** **HTML** : (Time: 1-2 weeks)
 
-- [w3schools](https://www.w3schools.com/html/default.asp)
+- [W3Schools](https://www.w3schools.com/html/default.asp)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Video Lecture](https://youtu.be/pQN-pnXPaVg)
 
@@ -18,7 +18,7 @@
 
 **2.** **CSS**: (Time 2-3 weeks)
 
-- [w3schools](https://www.w3schools.com/css/default.asp)
+- [W3Schools](https://www.w3schools.com/css/default.asp)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Video Lecture](https://youtu.be/1Rs2ND1ryYc)
 
@@ -34,8 +34,8 @@
 **1. HTML:** (Time: 1-2 weeks)
 
 - **Topics**
-  1. `<canvas>` - [w3schools](https://www.w3schools.com/html/html5_canvas.asp) [Video Lecture](https://youtu.be/gm1QtePAYTM)
-  2. `<iframe>`- [w3schools](https://www.w3schools.com/html/html_iframe.asp)
+  1. `<canvas>` - [W3Schools](https://www.w3schools.com/html/html5_canvas.asp) [Video Lecture](https://youtu.be/gm1QtePAYTM)
+  2. `<iframe>`- [W3Schools](https://www.w3schools.com/html/html_iframe.asp)
 
 **2. CSS:** (2-4 weeks)
 
@@ -50,7 +50,7 @@
 
 **3. JavaScript** : (Time: 3-5 weeks)
 
-- [w3schools](https://www.w3schools.com/js/default.asp)
+- [W3Schools](https://www.w3schools.com/js/default.asp)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Video Lecture](https://youtu.be/Qqx_wzMmFeA)
 
@@ -58,11 +58,30 @@
 
   1. Utility Tool
   2. Games
-  3. [Hackkerank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+  3. [Hackerrank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
   4. [Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS)
   5. [Test](https://www.hackerrank.com/skills-verification/javascript_basic)
 
 - **Important Topics**
-  1. [Jquery](https://youtu.be/HgvIox6ehkM)
+  1. [jQuery](https://youtu.be/HgvIox6ehkM)
   2. Ajax
-  3. Important Libraraies:
+  3. Important Libraries :
+      * [Tilt.js](https://gijsroge.github.io/tilt.js/)
+      * [Animate.css](https://animate.style/)
+      * [AOS](https://michalsnik.github.io/aos/)
+      * [CHart.js](https://www.chartjs.org/)
+
+- **Backend Development** (Time 3-4 weeks)
+  1. **Server Side Scripting**
+      * With JavaScript :
+        * NodeJS
+        * Express (Framework for NodeJS)
+      * With Python :
+        * Django
+        * Flask
+
+  2. **DataBase Languages**
+      * MongoDB
+      * Mongoose (Framework for MongoDB)
+      * SQL
+  
